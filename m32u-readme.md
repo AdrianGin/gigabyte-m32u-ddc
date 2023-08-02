@@ -6,3 +6,4 @@
 |e0    |  22 | 7B | FPS Counter ON |
 |e0    |  37 | 6F | 6F=Xhair Off, 6E=Xhair1, 6D=2, 6C=3 |
 |e0    |  37 | 6F | Xhair 1 |
+|e0    |  6A | 33 | 33=KVM ON,  32=KVM OFF|
